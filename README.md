@@ -26,3 +26,4 @@ Ruoyan Chen: Use sentiment analysis to identify the different romanticisms betwe
 
 ./Lexicon: Lexicon database generated based on Opinion Lexicon (Bing et al.), NRC Emotion Lexicon and General Inquirer lexicon. 
 
+Other jupyter notebook files in base directory: F5-level extensions to the F4 editions, such as topic model tables, sentiment analyses, KDE, PCA, etc.
